@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnuragKumar-Jaiswal
+- 👋 Hi, I’m Anurag Kumar
 - 👀 I’m interested in Java and Android Development
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Andriod Application Project.
